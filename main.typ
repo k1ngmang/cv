@@ -11,37 +11,52 @@
   leading: 0.52em,
 )
 
-= Artyom
-#link("https://github.com/k1ngmang")[
-  #image("github.png", width: 1em)
+
+#show title: set text(size: 22pt)
+
+#title[
+  Curriculum Vitae
 ]
-  
 
-=== About
-Experience: 3+ years
 
-Skills:
-- Backend development
-- Compiler/interpreter development
-- Engine development (3D, physics, math, etc.)
-
-#v(0.3cm)
-
-=== Tools
-
-- Languages: #list(
-  "go", 
-  "java",
-  "scala"
-)
-
-- Frequently used tools: #list(
-  "gin",
-  "postgresql",
-  "kafka",
-  "llvm",
-  "antlr",
-  "objectweb asm"
+#grid(
+  columns: (0fr, 1fr),
+  align(left)[
+    #link("https://github.com/k1ngmang")[
+      #image("github.png", width: 1em)
+    ]
+  ],
+  align(right)[
+   #link("https://kwork.ru/user/k1ngmang")[
+      #image("kowrk.png", width: 1em)
+    ]
+  ]
 )
 
 
+== About
+
+Hi! My name is Artyom. I'm a backend developer from Belarus. I'm also interested in compiler development.
+
+Languages: Go, Java, Kotlin, Scala
+
+
+== 2018 - 2020
+
+I started programming on Scratch at the age of 10. I participated in various events and won prizes.
+
+== 2020 - 2022
+
+Перешел на java, все еще была интересна разработка игр, поэтому
+занимался gamedev'ов на java + processing. Выполнял заказы на простые игры.
+
+== 2022 - 2025
+
+I became interested in web application and compiler development. I wrote compilers for Wiring, JVM, and other platforms, as well as interpreters. I worked on various programming languages. My most popular projects were: #link("https://github.com/ixionlang/ixion", "Ixion"), #link("https://github.com/k1ngmang/lazurite", "Lazurite").
+
+I began to shift from game development to engine development.
+I completed projects developing mobile apps and other services.
+
+== 2025
+
+I remain interested in programming language development and am actively studying languages ​​that interest me (for example, Gleam, D, Neva).
