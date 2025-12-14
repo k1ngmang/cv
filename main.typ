@@ -3,7 +3,7 @@
   size: 11.1pt
 )
 #set page(
-  paper: "a6",
+  paper: "a5",
   margin: (x: 1.8cm, y: 1.5cm),
 )
 #set par(
