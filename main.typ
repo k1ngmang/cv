@@ -47,8 +47,8 @@ I started programming on Scratch at the age of 10. I participated in various eve
 
 == 2020 - 2022
 
-Перешел на java, все еще была интересна разработка игр, поэтому
-занимался gamedev'ов на java + processing. Выполнял заказы на простые игры.
+I switched to Java, but I was still interested in game development, so
+I worked on game development using Java and Processing. I also worked briefly as a game developer.
 
 == 2022 - 2025
 
