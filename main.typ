@@ -59,4 +59,4 @@ I completed projects developing mobile apps and other services.
 
 == 2025
 
-I remain interested in programming language development and am actively studying languages ​​that interest me (for example, Gleam, D, Neva).
+I remain interested in programming language development and am actively studying languages ​​that interest me (for example, Gleam, D, Neva, Elixir).
